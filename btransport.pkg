@@ -1,0 +1,12 @@
+v 3
+d btransport. Bounded transport: combining a survey with census data
+d when a discrete variable is observed only in the survey.
+d Sharp bounds, smallest discrepancy compatible with the data, breakdown
+d values and subsampling confidence bounds, computed by linear programming.
+d Requires Stata 16 or later.
+d
+d Fernando Borraz, Universidad de la Republica
+d Distribution-Date: 20261125
+f btransport.ado
+f btransport.sthlp
+a btransport_example.do
